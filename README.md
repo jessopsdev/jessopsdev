@@ -1,7 +1,7 @@
 ## Hey! I'm Jess.
 
-- 🏠 Currently working on a play-by-post RPG by night.
-- 🚗 Building data-driven solutions in HR Tech space by day.
+- 🏠 Currently working on a TCG by night.
+- 🚗 Building data-driven solutions in auto as a Senior SWE by day.
 - 🕰️ Previously building IAM solutions, Growth domain services, and IoT Platforms.
 - 🌱 Learning deeper about UX and design.
 - 🏛️ Pushing architecture and process improvements to make work more sustainable.
